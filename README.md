@@ -56,11 +56,6 @@ Here are some of the projects I've worked on:
 - 🌴 Goa Travel Guide Page  
 - 🏏 Cricketer Profile Page  
 
-#### ⭐ In Progress  
-- 📝 Personal Portfolio Website  
-- 🔐 Password Generator  
-- 🌤 Weather Web App (API-based)
-
 ---
 
 ### 📫 Connect With Me  
