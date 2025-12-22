@@ -29,7 +29,8 @@
 `Java` • `Node.js (learning)` • `APIs` • `Git` • `GitHub`
 
 **Databases:**  
-`MySQL` • `SQLite`
+`MySQL` • `SQLite`  • `PostgreSQL`
+
 
 ---
 
